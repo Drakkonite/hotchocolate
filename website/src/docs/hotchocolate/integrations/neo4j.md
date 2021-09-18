@@ -150,7 +150,7 @@ RETURN person {.name}
 
 # Paging
 
-In order to use pagination with MongoDB, we have to register the MongoDB specific pagination providers.
+In order to use pagination with Neo4J, we have to register the Neo4J specific pagination providers.
 
 ```csharp
 services
